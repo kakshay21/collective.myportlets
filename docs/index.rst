@@ -1,0 +1,3 @@
+=====================collective.myportlets
+=====================
+User documentation
