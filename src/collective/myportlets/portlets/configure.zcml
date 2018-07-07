@@ -1,13 +1,12 @@
 <configure
     xmlns:five="http://namespaces.zope.org/five"
     xmlns:plone="http://namespaces.plone.org/plone"
-    i18n_domain="ploneexample.portlet">
-
+    i18n_domain="collective.myportlets.portlet">
 
     <include package="plone.app.portlets"/>
 
     <plone:portlet
-        name="ploneexample.portlet.Recent"
+        name="collective.myportlets.portlet.Recent"
         interface=".recent.IRecentPortlet"
         assignment=".recent.Assignment"
         renderer=".recent.Renderer"
