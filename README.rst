@@ -6,7 +6,7 @@
 collective.myportlets
 =====================
 
-.. image:: docs/Screen Shot 2018-07-08 at 2.06.06 PM.png
+.. image:: https://github.com/kakshay21/collective.myportlets/blob/master/docs/Screen%20Shot%202018-07-08%20at%202.06.06%20PM.png
 
 Features
 --------
