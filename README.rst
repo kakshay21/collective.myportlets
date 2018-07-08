@@ -6,7 +6,7 @@
 collective.myportlets
 =====================
 
-Tell me what your product does
+.. image:: docs/Screen Shot 2018-07-08 at 2.06.06 PM.png
 
 Features
 --------
