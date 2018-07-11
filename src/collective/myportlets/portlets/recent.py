@@ -17,7 +17,7 @@ class Assignment(base.Assignment):
 
     @property
     def title(self):
-        return _(u"Recent items")
+        return _(u"Recent items Example")
 
 
 class AddForm(base.AddForm):
