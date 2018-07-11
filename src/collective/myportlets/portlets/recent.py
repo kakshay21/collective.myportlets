@@ -26,7 +26,7 @@ class AddForm(base.AddForm):
     description = _(u"This portlet displays recently modified content.")
 
     def create(self, data):
-        return Assignment(count=data.get('count', 5))
+        return Assignment(count=data.get('count', 7))
 
 
 class EditForm(base.EditForm):
